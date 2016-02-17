@@ -1,11 +1,6 @@
 ﻿Hello MIK!
 Rácz Roland
-<<<<<<< HEAD
 Blázsovics Benjamin
-=======
-<<<<<<< HEAD
 Czerlyenácz Bálint
-=======
 Pintér Tamás
->>>>>>> b6a3dbcea95a424ffbcaecc6386492b25d6b6f23
->>>>>>> 3f57bb27bd41c46bd5b0bc9b7a150b27ae39316b
+Hamerli András
