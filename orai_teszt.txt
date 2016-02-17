@@ -1,15 +1,19 @@
 ﻿Hello MIK!
 Rácz Roland
 <<<<<<< HEAD
+<<<<<<< HEAD
 Zalavári Bálint
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 7a1b034e52fb25b78bbfdde58d1520036c1fe2ec
 Blázsovics Benjamin
-=======
-<<<<<<< HEAD
 Czerlyenácz Bálint
-=======
 Pintér Tamás
+<<<<<<< HEAD
 >>>>>>> b6a3dbcea95a424ffbcaecc6386492b25d6b6f23
 >>>>>>> 3f57bb27bd41c46bd5b0bc9b7a150b27ae39316b
 >>>>>>> 649ee3209ac3041413401866e0d5d0928ba77e5e
+=======
+Hamerli András
+>>>>>>> 7a1b034e52fb25b78bbfdde58d1520036c1fe2ec
