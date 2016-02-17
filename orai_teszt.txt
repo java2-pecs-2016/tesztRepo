@@ -1,3 +1,7 @@
 ﻿Hello MIK!
 Rácz Roland
+<<<<<<< HEAD
 Czerlyenácz Bálint
+=======
+Pintér Tamás
+>>>>>>> b6a3dbcea95a424ffbcaecc6386492b25d6b6f23
