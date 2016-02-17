@@ -17,8 +17,13 @@ Pintér Tamás
 >>>>>>> 649ee3209ac3041413401866e0d5d0928ba77e5e
 =======
 Hamerli András
+<<<<<<< HEAD
 >>>>>>> 7a1b034e52fb25b78bbfdde58d1520036c1fe2ec
 =======
 Hamerli András
 Pintér Tamás
 >>>>>>> a0a99e41b45580a224e30d3fc1e4b919e9ab2362
+=======
+Pintér Tamás
+Krasznai Valentin
+>>>>>>> ac81ba74a15c087d564158fe578608e213e20a19
